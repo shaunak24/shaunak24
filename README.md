@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shaunak
 - Working as Software Engineer @ Interactive Brokers
-- 👀 Always interested to talk about Science and Technology
+- 👀 Always interested to talk about Technology
 - 🌱 I’m currently learning React.js
 - 📫 Reach me at - Twitter - @shaunakt24, Gmail - shaunak241997@gmail.com
 
