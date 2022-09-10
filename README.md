@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shaunak
 - Working as Software Engineer @ Interactive Brokers
 - 👀 Always interested to talk about Technology
-- Passionate about Backend Technologies and developing Scalable and Reliable Systems
+- 💻 Passionate about Backend Technologies and developing Scalable and Reliable Systems 
 - 🌱 I’m currently learning React.js
 - 📫 Reach me at - Twitter - @shaunakt24, Gmail - shaunak241997@gmail.com
 
