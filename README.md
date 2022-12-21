@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Shaunak
 - Working as Software Development Engineer @ Autodesk | Ex - Interactive Brokers
+- 🛠️ My goal is to build products that positively impact people's lives
 - 👀 Always interested to talk about Technology
 - 💻 Passionate about Backend Technologies and developing Scalable and Reliable Systems 
 - 🌱 I’m currently learning React.js
