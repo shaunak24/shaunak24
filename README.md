@@ -6,9 +6,6 @@
 - 🌱 I’m currently learning React.js
 - 📫 Reach me at - Twitter - @shaunakt24, Gmail - shaunak241997@gmail.com
 
-## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/shaunak24/Actions/blob/output/github-contribution-grid-snake.svg)
-
 <!---
 shaunak24/shaunak24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
