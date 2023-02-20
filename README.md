@@ -5,6 +5,7 @@
 - 💻 Passionate about Backend Technologies and developing Scalable and Reliable Systems 
 - 🌱 I’m currently learning React.js
 - 📫 Reach me at - Twitter - @shaunakt24, Gmail - shaunak241997@gmail.com
+- LinkedIn - https://www.linkedin.com/in/shaunak24/
 
 <!---
 shaunak24/shaunak24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
